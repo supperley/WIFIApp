@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WIFIApp</string>
+    <string name="send">Send</string>
+    <string name="text">Text</string>
+    <string name="IP">192.168.100.3</string>
+    <string name="Port">8000</string>
+    <string name="welcome_to_the_program">Welcome to the program!</string>
+</resources>
